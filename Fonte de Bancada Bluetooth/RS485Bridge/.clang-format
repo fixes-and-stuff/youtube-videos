@@ -1,0 +1,25 @@
+BasedOnStyle: Microsoft
+UseTab: ForIndentation
+IndentWidth: 2
+TabWidth: 2
+BreakBeforeBraces: Custom
+BraceWrapping:
+  AfterCaseLabel: false
+  AfterClass: false
+  AfterControlStatement: Never
+  AfterEnum: false
+  AfterFunction: false
+  AfterNamespace: false
+  AfterObjCDeclaration: false
+  AfterStruct: false
+  AfterUnion: false
+  AfterExternBlock: false
+  BeforeCatch: true
+  BeforeElse: true
+  BeforeLambdaBody: false
+  BeforeWhile: false
+  IndentBraces: false
+  SplitEmptyRecord: false
+  SplitEmptyNamespace: false
+AllowShortIfStatementsOnASingleLine: WithoutElse
+IndentCaseLabels: true
